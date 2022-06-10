@@ -1,1 +1,44 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+}
+
+h1,
+footer {
+    text-align: center;
+}
+
+h1,
+h2,
+p {
+    padding: 12px;
+}
+
+p {
+    font-size: 20px;
+}
+.subtitle {
+    font-size: 25px;
+}
+
+#begining {
+    font-size: 22px;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#copyrights {
+    font-size: 10px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
